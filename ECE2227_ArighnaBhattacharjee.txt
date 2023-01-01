@@ -1,0 +1,14 @@
+Name of the student : Arighna Bhattacharjee 
+Class Roll of the student : 27 
+Stream of the student : ECE 
+Your Student ID is : ECE2227
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 96 
+Marks obtained in English is : 90 
+
+You have got 474 in total with 94%
+Outstanding Performance... You have passed the exam with grade A.
